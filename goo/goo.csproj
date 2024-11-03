@@ -13,4 +13,16 @@
     <PackageReference Include="SimulationFramework.SkiaSharp" Version="0.2.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="8bit bossfight %28lower qual wav%29.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Bread.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Food Truck-c.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
